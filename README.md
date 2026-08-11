@@ -103,4 +103,4 @@ IC124_SA3_Quilla_fixed/
 
 ## Authors
 
-Developed as part of the IC124 course (Programming Paradigm 2).
+Developed as our final project of the IC124 course (Programming Paradigm 2).
